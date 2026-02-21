@@ -9,6 +9,8 @@ using System.Collections;
 
     public int killScore;
 
+    public int flappyScore;
+
      private void Awake()
      {
           if (instance == null)
