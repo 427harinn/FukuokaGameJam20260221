@@ -7,6 +7,8 @@ using System.Collections;
 
     public int lineScore;
 
+    public int killScore;
+
      private void Awake()
      {
           if (instance == null)
