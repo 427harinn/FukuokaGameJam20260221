@@ -3,7 +3,9 @@ using System.Collections;
  using UnityEngine;
  public class GManager : MonoBehaviour
  {
-     public static GManager instance = null;
+    public static GManager instance = null;
+
+    public int lineScore;
 
      private void Awake()
      {
