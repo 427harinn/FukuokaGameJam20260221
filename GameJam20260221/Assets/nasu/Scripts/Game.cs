@@ -1,6 +1,7 @@
 ﻿using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI; // Image用
+using UnityEngine.SceneManagement;
 
 public class Player : MonoBehaviour
 {
@@ -30,6 +31,8 @@ public class Player : MonoBehaviour
     [SerializeField] private GameObject FadeOut;
     [SerializeField] private GameObject clear; 
     [SerializeField] private GameObject FadeIn;
+    [SerializeField] private float sceneChangeDelayAfterFade = 2.5f;
+    [SerializeField] private string nextSceneName = "FlappyGame";
 
     void Start()
     {
@@ -215,7 +218,7 @@ public class Player : MonoBehaviour
     private void ClearImage()
     {
         clear.SetActive(true);
-        Invoke("FadeInAnimation", 0.8f);
+        Invoke("FadeInAnimation", 1.8f);
     }
     
     private void FadeInAnimation()
@@ -223,5 +226,15 @@ public class Player : MonoBehaviour
         GameObject fadein = Instantiate(FadeIn, Vector3.zero, Quaternion.identity);
         //fadeinの親オブジェクトをcanvasに
         fadein.transform.SetParent(GameObject.Find("Canvas").transform, false);
+        Invoke(nameof(LoadNextScene), sceneChangeDelayAfterFade);
+    }
+
+    private void LoadNextScene()
+    {
+        if (string.IsNullOrEmpty(nextSceneName))
+        {
+            return;
+        }
+        SceneManager.LoadScene(nextSceneName);
     }
 }

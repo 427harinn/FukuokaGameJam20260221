@@ -11,6 +11,8 @@ using System.Collections;
 
     public int flappyScore;
 
+    public int funeScore;
+
      private void Awake()
      {
           if (instance == null)

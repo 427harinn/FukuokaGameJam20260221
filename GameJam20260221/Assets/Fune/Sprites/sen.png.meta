@@ -1,0 +1,3250 @@
+fileFormatVersion: 2
+guid: 2f681af995d2f481bac4236164f92184
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2404991808469858196
+    second: sen_0
+  - first:
+      213: -2669163056987926867
+    second: sen_1
+  - first:
+      213: 5753380943008328855
+    second: sen_2
+  - first:
+      213: -1583261858411568675
+    second: sen_3
+  - first:
+      213: -7541804386814237050
+    second: sen_4
+  - first:
+      213: 5639040812612456617
+    second: sen_5
+  - first:
+      213: 4239450470214384216
+    second: sen_6
+  - first:
+      213: -529659455481487266
+    second: sen_7
+  - first:
+      213: 6900317907832425255
+    second: sen_8
+  - first:
+      213: 7653809457417811041
+    second: sen_9
+  - first:
+      213: -4822730295344956247
+    second: sen_10
+  - first:
+      213: -8354889181617988655
+    second: sen_11
+  - first:
+      213: 3356851767976556877
+    second: sen_12
+  - first:
+      213: 3242148361450864684
+    second: sen_13
+  - first:
+      213: 6361863654770908
+    second: sen_14
+  - first:
+      213: -7183283318110766551
+    second: sen_15
+  - first:
+      213: -5260942370494721784
+    second: sen_16
+  - first:
+      213: 4242271608661203887
+    second: sen_17
+  - first:
+      213: 5899589958323783626
+    second: sen_18
+  - first:
+      213: -4797168492912882419
+    second: sen_19
+  - first:
+      213: -7685551586215803642
+    second: sen_20
+  - first:
+      213: -4482323904774354585
+    second: sen_21
+  - first:
+      213: 2935826730111127220
+    second: sen_22
+  - first:
+      213: 3064354945096050914
+    second: sen_23
+  - first:
+      213: 338242530891745916
+    second: sen_24
+  - first:
+      213: 879573041993274407
+    second: sen_25
+  - first:
+      213: -5997585525393740696
+    second: sen_26
+  - first:
+      213: 7970757456951662932
+    second: sen_27
+  - first:
+      213: 5576703950449902561
+    second: sen_28
+  - first:
+      213: 6163674595052478640
+    second: sen_29
+  - first:
+      213: -5370209500908185090
+    second: sen_30
+  - first:
+      213: 7608050636917685866
+    second: sen_31
+  - first:
+      213: -6696432078616758564
+    second: sen_32
+  - first:
+      213: -1042142462795698995
+    second: sen_33
+  - first:
+      213: -6828824016597185802
+    second: sen_34
+  - first:
+      213: 7402264606719427457
+    second: sen_35
+  - first:
+      213: 2898014371832535170
+    second: sen_36
+  - first:
+      213: 3656038694201633976
+    second: sen_37
+  - first:
+      213: -9838903155315573
+    second: sen_38
+  - first:
+      213: 5934739787388076229
+    second: sen_39
+  - first:
+      213: 2631157623977275393
+    second: sen_40
+  - first:
+      213: 5587766383879357438
+    second: sen_41
+  - first:
+      213: 3315353833874853464
+    second: sen_42
+  - first:
+      213: -702452306275590110
+    second: sen_43
+  - first:
+      213: -5215857642260325801
+    second: sen_44
+  - first:
+      213: -2259843594422951388
+    second: sen_45
+  - first:
+      213: 4389154656163522987
+    second: sen_46
+  - first:
+      213: 8632871087472397227
+    second: sen_47
+  - first:
+      213: -6239920638594313870
+    second: sen_48
+  - first:
+      213: -4468989166518083585
+    second: sen_49
+  - first:
+      213: 4384654526745312659
+    second: sen_50
+  - first:
+      213: 5303668433523867621
+    second: sen_51
+  - first:
+      213: 8602734565397420816
+    second: sen_52
+  - first:
+      213: -664675647435763681
+    second: sen_53
+  - first:
+      213: -540839935559477761
+    second: sen_54
+  - first:
+      213: -3959520139296012382
+    second: sen_55
+  - first:
+      213: 1550597583752922742
+    second: sen_56
+  - first:
+      213: -3497684082468306893
+    second: sen_57
+  - first:
+      213: -2046753606823961065
+    second: sen_58
+  - first:
+      213: 1853544933449428167
+    second: sen_59
+  - first:
+      213: -1527847244744043697
+    second: sen_60
+  - first:
+      213: -658760296071502971
+    second: sen_61
+  - first:
+      213: -4462456366441431353
+    second: sen_62
+  - first:
+      213: -766476952541816162
+    second: sen_63
+  - first:
+      213: 1709786066040862321
+    second: sen_64
+  - first:
+      213: 3856222303923756362
+    second: sen_65
+  - first:
+      213: -5281202310060656799
+    second: sen_66
+  - first:
+      213: 4920147824366531664
+    second: sen_67
+  - first:
+      213: -7305219064112111223
+    second: sen_68
+  - first:
+      213: 7956532520650097526
+    second: sen_69
+  - first:
+      213: -7852166293447209096
+    second: sen_70
+  - first:
+      213: 6091112861752365369
+    second: sen_71
+  - first:
+      213: 7315287378362898194
+    second: sen_72
+  - first:
+      213: 4675291275619959814
+    second: sen_73
+  - first:
+      213: 836763368371881780
+    second: sen_74
+  - first:
+      213: -8815836385325229048
+    second: sen_75
+  - first:
+      213: -4766783865007718973
+    second: sen_76
+  - first:
+      213: 2035613517013582515
+    second: sen_77
+  - first:
+      213: -4261117223457577063
+    second: sen_78
+  - first:
+      213: -755804052829820006
+    second: sen_79
+  - first:
+      213: -5765352081769835194
+    second: sen_80
+  - first:
+      213: 6757047576134687787
+    second: sen_81
+  - first:
+      213: -3314626431628788963
+    second: sen_82
+  - first:
+      213: -180503211315773950
+    second: sen_83
+  - first:
+      213: -4351841220810503873
+    second: sen_84
+  - first:
+      213: -3850660334783003411
+    second: sen_85
+  - first:
+      213: 1978667632971454939
+    second: sen_86
+  - first:
+      213: -8761985686588467954
+    second: sen_87
+  - first:
+      213: -6284320810092608656
+    second: sen_88
+  - first:
+      213: -5585469234588297465
+    second: sen_89
+  - first:
+      213: 6460214367754509828
+    second: sen_90
+  - first:
+      213: 1316441172652005758
+    second: sen_91
+  - first:
+      213: -349323910604741658
+    second: sen_92
+  - first:
+      213: 1889052572330584248
+    second: sen_93
+  - first:
+      213: 1666606966793442418
+    second: sen_94
+  - first:
+      213: 22275728760022883
+    second: sen_95
+  - first:
+      213: -1760003267228714248
+    second: sen_96
+  - first:
+      213: 6169691720714591338
+    second: sen_97
+  - first:
+      213: -2041304471630356155
+    second: sen_98
+  - first:
+      213: 854848733217805199
+    second: sen_99
+  - first:
+      213: -5860223223929818059
+    second: sen_100
+  - first:
+      213: 6132564993940239467
+    second: sen_101
+  - first:
+      213: 7582051181501277275
+    second: sen_102
+  - first:
+      213: 5219905089224907423
+    second: sen_103
+  - first:
+      213: -7642746068809402317
+    second: sen_104
+  - first:
+      213: -5801028331548814834
+    second: sen_105
+  - first:
+      213: -7613945003855089974
+    second: sen_106
+  - first:
+      213: 6042303285670313408
+    second: sen_107
+  - first:
+      213: 1908204064241691985
+    second: sen_108
+  - first:
+      213: 8791147531817641314
+    second: sen_109
+  - first:
+      213: 3799701147720212576
+    second: sen_110
+  - first:
+      213: -1710060758718696760
+    second: sen_111
+  - first:
+      213: -7875120352903150301
+    second: sen_112
+  - first:
+      213: -7206295039135710234
+    second: sen_113
+  - first:
+      213: 166420152152065839
+    second: sen_114
+  - first:
+      213: -399352955986448637
+    second: sen_115
+  - first:
+      213: 6100592749890891602
+    second: sen_116
+  - first:
+      213: -5942178117523876022
+    second: sen_117
+  - first:
+      213: -5832959136755353531
+    second: sen_118
+  - first:
+      213: -8086556076491619136
+    second: sen_119
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sen_0
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 511
+        width: 6
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c680e6041b0cf9ed0800000000000000
+      internalID: -2404991808469858196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_1
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 511
+        width: 6
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae83ac675a35fad0800000000000000
+      internalID: -2669163056987926867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_2
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 511
+        width: 6
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c63852c7d18df40800000000000000
+      internalID: 5753380943008328855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_3
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 511
+        width: 6
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd124fe6abf170ae0800000000000000
+      internalID: -1583261858411568675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_4
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 511
+        width: 6
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 686647e4ed0265790800000000000000
+      internalID: -7541804386814237050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_5
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 511
+        width: 6
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a012bdfdb5e14e40800000000000000
+      internalID: 5639040812612456617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_6
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 511
+        width: 6
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85abdf7bdbd85da30800000000000000
+      internalID: 4239450470214384216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_7
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 511
+        width: 6
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e506910188546a8f0800000000000000
+      internalID: -529659455481487266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_8
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 511
+        width: 6
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72b4e95e39ad2cf50800000000000000
+      internalID: 6900317907832425255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_9
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 511
+        width: 6
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 164f9ef562bc73a60800000000000000
+      internalID: 7653809457417811041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_10
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 462
+        width: 6
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9acf27a2958321db0800000000000000
+      internalID: -4822730295344956247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_11
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 462
+        width: 6
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dbd7ef2e887d0c80800000000000000
+      internalID: -8354889181617988655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_12
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 462
+        width: 6
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4972e9c5eee59e20800000000000000
+      internalID: 3356851767976556877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_13
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 462
+        width: 6
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c20c461d1cc6efc20800000000000000
+      internalID: 3242148361450864684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_14
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 462
+        width: 6
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd8804fc41a961000800000000000000
+      internalID: 6361863654770908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_15
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 462
+        width: 6
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92ab40f71e9df4c90800000000000000
+      internalID: -7183283318110766551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_16
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 462
+        width: 6
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8015cd6a9c06df6b0800000000000000
+      internalID: -5260942370494721784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_17
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 462
+        width: 6
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fabd9f23d839fda30800000000000000
+      internalID: 4242271608661203887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_18
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 462
+        width: 6
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac7c95a4fcd8fd150800000000000000
+      internalID: 5899589958323783626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_19
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 462
+        width: 6
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0d4b341ca80d6db0800000000000000
+      internalID: -4797168492912882419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_20
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 409
+        width: 6
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 605caa85d8f675590800000000000000
+      internalID: -7685551586215803642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_21
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 409
+        width: 6
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 769ceaf28269bc1c0800000000000000
+      internalID: -4482323904774354585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_22
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 409
+        width: 6
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bece5a3bd62eb820800000000000000
+      internalID: 2935826730111127220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_23
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 409
+        width: 6
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e869204696c68a20800000000000000
+      internalID: 3064354945096050914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_24
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 409
+        width: 6
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7a4bbd2acda1b400800000000000000
+      internalID: 338242530891745916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_25
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 409
+        width: 6
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 724d402850fd43c00800000000000000
+      internalID: 879573041993274407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_26
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 409
+        width: 6
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86ca1e0cdbb44cca0800000000000000
+      internalID: -5997585525393740696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_27
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 409
+        width: 6
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 459566c1da1dd9e60800000000000000
+      internalID: 7970757456951662932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_28
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 409
+        width: 6
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e3851042be646d40800000000000000
+      internalID: 5576703950449902561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_29
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 409
+        width: 6
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b0e33d3365c98550800000000000000
+      internalID: 6163674595052478640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_30
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 364
+        width: 6
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef990f859ee2975b0800000000000000
+      internalID: -5370209500908185090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_31
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 364
+        width: 6
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6eb9aebeb9359960800000000000000
+      internalID: 7608050636917685866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_32
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 364
+        width: 6
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd67483f08e7113a0800000000000000
+      internalID: -6696432078616758564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_33
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 364
+        width: 6
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcc26bb93f09981f0800000000000000
+      internalID: -1042142462795698995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_34
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 364
+        width: 6
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fa8111dcb42b31a0800000000000000
+      internalID: -6828824016597185802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_35
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 364
+        width: 6
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18345f0e0702ab660800000000000000
+      internalID: 7402264606719427457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_36
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 364
+        width: 6
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2881e0387b0d73820800000000000000
+      internalID: 2898014371832535170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_37
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 364
+        width: 6
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bca8f462dbdcb230800000000000000
+      internalID: 3656038694201633976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_38
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 364
+        width: 6
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ca278d19b0ddff0800000000000000
+      internalID: -9838903155315573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_39
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 364
+        width: 6
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c0c4ad946e6c5250800000000000000
+      internalID: 5934739787388076229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_40
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 318
+        width: 6
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 100f9352befb38420800000000000000
+      internalID: 2631157623977275393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_41
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 318
+        width: 6
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef38ffebbebbb8d40800000000000000
+      internalID: 5587766383879357438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_42
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 318
+        width: 6
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85e07d41fb0820e20800000000000000
+      internalID: 3315353833874853464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_43
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 318
+        width: 6
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2202ac469536046f0800000000000000
+      internalID: -702452306275590110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_44
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 318
+        width: 6
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75a1112fb1d8d97b0800000000000000
+      internalID: -5215857642260325801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_45
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 318
+        width: 6
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4226a7a593c63a0e0800000000000000
+      internalID: -2259843594422951388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_46
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 318
+        width: 6
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba9e0e0b7e869ec30800000000000000
+      internalID: 4389154656163522987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_47
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 318
+        width: 6
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab4880e38e1ec770800000000000000
+      internalID: 8632871087472397227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_48
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 318
+        width: 6
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27115fd5d395769a0800000000000000
+      internalID: -6239920638594313870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_49
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 318
+        width: 6
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fffde90e706faf1c0800000000000000
+      internalID: -4468989166518083585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_50
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 272
+        width: 6
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39d7679af0c69dc30800000000000000
+      internalID: 4384654526745312659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_51
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 272
+        width: 6
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ef74aa175a6a9940800000000000000
+      internalID: 5303668433523867621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_52
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 272
+        width: 6
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01bdc7b028d036770800000000000000
+      internalID: 8602734565397420816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_53
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 272
+        width: 6
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f101dbf250996c6f0800000000000000
+      internalID: -664675647435763681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_54
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 272
+        width: 6
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff5d1a0b1fc8e78f0800000000000000
+      internalID: -540839935559477761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_55
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 272
+        width: 6
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a781486965fc09c0800000000000000
+      internalID: -3959520139296012382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_56
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 272
+        width: 6
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6760c297944d48510800000000000000
+      internalID: 1550597583752922742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_57
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 272
+        width: 6
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33040f7cbdab57fc0800000000000000
+      internalID: -3497684082468306893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_58
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 272
+        width: 6
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71e128250787893e0800000000000000
+      internalID: -2046753606823961065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_59
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 272
+        width: 6
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cc6a75eb4d19b910800000000000000
+      internalID: 1853544933449428167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_60
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 225
+        width: 6
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f43d8f9960ffbcae0800000000000000
+      internalID: -1527847244744043697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_61
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 225
+        width: 6
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 583e680400d9bd6f0800000000000000
+      internalID: -658760296071502971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_62
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 225
+        width: 6
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cef39ce39b2212c0800000000000000
+      internalID: -4462456366441431353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_63
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 225
+        width: 6
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9a983bc54dec55f0800000000000000
+      internalID: -766476952541816162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_64
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 225
+        width: 6
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17637444e516ab710800000000000000
+      internalID: 1709786066040862321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_65
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 225
+        width: 6
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4d505811cd048530800000000000000
+      internalID: 3856222303923756362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_66
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 225
+        width: 6
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 167bcd1ea7665b6b0800000000000000
+      internalID: -5281202310060656799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_67
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 225
+        width: 6
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05437c1d060e74440800000000000000
+      internalID: 4920147824366531664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_68
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 225
+        width: 6
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 981af2547f5ae9a90800000000000000
+      internalID: -7305219064112111223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_69
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 225
+        width: 6
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67341390c284b6e60800000000000000
+      internalID: 7956532520650097526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_70
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 170
+        width: 6
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f88c1db50870390800000000000000
+      internalID: -7852166293447209096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_71
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 170
+        width: 6
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 931109b20eaf78450800000000000000
+      internalID: 6091112861752365369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_72
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 170
+        width: 6
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2171831dc1f158560800000000000000
+      internalID: 7315287378362898194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_73
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 170
+        width: 6
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6048fc8f4a8f1e040800000000000000
+      internalID: 4675291275619959814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_74
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 170
+        width: 6
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4378dd4a9d7cc9b00800000000000000
+      internalID: 836763368371881780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_75
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 170
+        width: 6
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80cd9be048bd7a580800000000000000
+      internalID: -8815836385325229048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_76
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 170
+        width: 6
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cdb62d845bf8ddb0800000000000000
+      internalID: -4766783865007718973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_77
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 170
+        width: 6
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b2049565b3ff3c10800000000000000
+      internalID: 2035613517013582515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_78
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 170
+        width: 6
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 997238d26787dd4c0800000000000000
+      internalID: -4261117223457577063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_79
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 170
+        width: 6
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b2747e738d285f0800000000000000
+      internalID: -755804052829820006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_80
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 119
+        width: 6
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 645dc09e3da5dffa0800000000000000
+      internalID: -5765352081769835194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_81
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 119
+        width: 6
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2c1ce958fad5cd50800000000000000
+      internalID: 6757047576134687787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_82
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 119
+        width: 6
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b35a372d41002d0800000000000000
+      internalID: -3314626431628788963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_83
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 119
+        width: 6
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20eb4b02949be7df0800000000000000
+      internalID: -180503211315773950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_84
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 119
+        width: 6
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3900ba77772b93c0800000000000000
+      internalID: -4351841220810503873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_85
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 119
+        width: 6
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de48292c3d4bf8ac0800000000000000
+      internalID: -3850660334783003411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_86
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 119
+        width: 6
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd993df8ab3a57b10800000000000000
+      internalID: 1978667632971454939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_87
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 119
+        width: 6
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0556d7e07c276680800000000000000
+      internalID: -8761985686588467954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_88
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 119
+        width: 6
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 073c5dbd48b99c8a0800000000000000
+      internalID: -6284320810092608656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_89
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 119
+        width: 6
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 707dd70035d6c72b0800000000000000
+      internalID: -5585469234588297465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_90
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 73
+        width: 6
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40ed1e26dba47a950800000000000000
+      internalID: 6460214367754509828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_91
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 73
+        width: 6
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e791f9f8540f44210800000000000000
+      internalID: 1316441172652005758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_92
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 73
+        width: 6
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e3aadc01c3f62bf0800000000000000
+      internalID: -349323910604741658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_93
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 73
+        width: 6
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b86dcf4e43473a10800000000000000
+      internalID: 1889052572330584248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_94
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 73
+        width: 6
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2741aebc43af02710800000000000000
+      internalID: 1666606966793442418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_95
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 73
+        width: 6
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 367aad348a32f4000800000000000000
+      internalID: 22275728760022883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_96
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 73
+        width: 6
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fa3e457a563397e0800000000000000
+      internalID: -1760003267228714248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_97
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 73
+        width: 6
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6c9cda7ee52f9550800000000000000
+      internalID: 6169691720714591338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_98
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 73
+        width: 6
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5416e0af564dba3e0800000000000000
+      internalID: -2041304471630356155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_99
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 73
+        width: 6
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f83d328c4680ddb00800000000000000
+      internalID: 854848733217805199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_100
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 16
+        width: 6
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5343b21d60e4caea0800000000000000
+      internalID: -5860223223929818059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_101
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 16
+        width: 6
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b64bdc9ce5f3b1550800000000000000
+      internalID: 6132564993940239467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_102
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 16
+        width: 6
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b54e63ec06bd83960800000000000000
+      internalID: 7582051181501277275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_103
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 16
+        width: 6
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a118cb504d07840800000000000000
+      internalID: 5219905089224907423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_104
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 16
+        width: 6
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3383a1481f28fe590800000000000000
+      internalID: -7642746068809402317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_105
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 16
+        width: 6
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e025e06b77b9e7fa0800000000000000
+      internalID: -5801028331548814834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_106
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 16
+        width: 6
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace6bd10c55d55690800000000000000
+      internalID: -7613945003855089974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_107
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 16
+        width: 6
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cdfd8723d29ad350800000000000000
+      internalID: 6042303285670313408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_108
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 16
+        width: 6
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15d25108c7d4b7a10800000000000000
+      internalID: 1908204064241691985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_109
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 16
+        width: 6
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 265ea0a4a1e600a70800000000000000
+      internalID: 8791147531817641314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_110
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 0
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 060e18aef004bb430800000000000000
+      internalID: 3799701147720212576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_111
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 0
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c2bc3cdcc4a448e0800000000000000
+      internalID: -1710060758718696760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_112
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 0
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32542c163c3f5b290800000000000000
+      internalID: -7875120352903150301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_113
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 0
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e308ada7d81efb90800000000000000
+      internalID: -7206295039135710234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_114
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 0
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f278d742f3e3f4200800000000000000
+      internalID: 166420152152065839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_115
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 0
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30fec663a96357af0800000000000000
+      internalID: -399352955986448637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_116
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 0
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25fe190a8c8a9a450800000000000000
+      internalID: 6100592749890891602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_117
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 0
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a47d3e03c74298da0800000000000000
+      internalID: -5942178117523876022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_118
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 0
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 548f358c19a2d0fa0800000000000000
+      internalID: -5832959136755353531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sen_119
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 0
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c4c074c718c6cf80800000000000000
+      internalID: -8086556076491619136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sen_0: -2404991808469858196
+      sen_1: -2669163056987926867
+      sen_10: -4822730295344956247
+      sen_100: -5860223223929818059
+      sen_101: 6132564993940239467
+      sen_102: 7582051181501277275
+      sen_103: 5219905089224907423
+      sen_104: -7642746068809402317
+      sen_105: -5801028331548814834
+      sen_106: -7613945003855089974
+      sen_107: 6042303285670313408
+      sen_108: 1908204064241691985
+      sen_109: 8791147531817641314
+      sen_11: -8354889181617988655
+      sen_110: 3799701147720212576
+      sen_111: -1710060758718696760
+      sen_112: -7875120352903150301
+      sen_113: -7206295039135710234
+      sen_114: 166420152152065839
+      sen_115: -399352955986448637
+      sen_116: 6100592749890891602
+      sen_117: -5942178117523876022
+      sen_118: -5832959136755353531
+      sen_119: -8086556076491619136
+      sen_12: 3356851767976556877
+      sen_13: 3242148361450864684
+      sen_14: 6361863654770908
+      sen_15: -7183283318110766551
+      sen_16: -5260942370494721784
+      sen_17: 4242271608661203887
+      sen_18: 5899589958323783626
+      sen_19: -4797168492912882419
+      sen_2: 5753380943008328855
+      sen_20: -7685551586215803642
+      sen_21: -4482323904774354585
+      sen_22: 2935826730111127220
+      sen_23: 3064354945096050914
+      sen_24: 338242530891745916
+      sen_25: 879573041993274407
+      sen_26: -5997585525393740696
+      sen_27: 7970757456951662932
+      sen_28: 5576703950449902561
+      sen_29: 6163674595052478640
+      sen_3: -1583261858411568675
+      sen_30: -5370209500908185090
+      sen_31: 7608050636917685866
+      sen_32: -6696432078616758564
+      sen_33: -1042142462795698995
+      sen_34: -6828824016597185802
+      sen_35: 7402264606719427457
+      sen_36: 2898014371832535170
+      sen_37: 3656038694201633976
+      sen_38: -9838903155315573
+      sen_39: 5934739787388076229
+      sen_4: -7541804386814237050
+      sen_40: 2631157623977275393
+      sen_41: 5587766383879357438
+      sen_42: 3315353833874853464
+      sen_43: -702452306275590110
+      sen_44: -5215857642260325801
+      sen_45: -2259843594422951388
+      sen_46: 4389154656163522987
+      sen_47: 8632871087472397227
+      sen_48: -6239920638594313870
+      sen_49: -4468989166518083585
+      sen_5: 5639040812612456617
+      sen_50: 4384654526745312659
+      sen_51: 5303668433523867621
+      sen_52: 8602734565397420816
+      sen_53: -664675647435763681
+      sen_54: -540839935559477761
+      sen_55: -3959520139296012382
+      sen_56: 1550597583752922742
+      sen_57: -3497684082468306893
+      sen_58: -2046753606823961065
+      sen_59: 1853544933449428167
+      sen_6: 4239450470214384216
+      sen_60: -1527847244744043697
+      sen_61: -658760296071502971
+      sen_62: -4462456366441431353
+      sen_63: -766476952541816162
+      sen_64: 1709786066040862321
+      sen_65: 3856222303923756362
+      sen_66: -5281202310060656799
+      sen_67: 4920147824366531664
+      sen_68: -7305219064112111223
+      sen_69: 7956532520650097526
+      sen_7: -529659455481487266
+      sen_70: -7852166293447209096
+      sen_71: 6091112861752365369
+      sen_72: 7315287378362898194
+      sen_73: 4675291275619959814
+      sen_74: 836763368371881780
+      sen_75: -8815836385325229048
+      sen_76: -4766783865007718973
+      sen_77: 2035613517013582515
+      sen_78: -4261117223457577063
+      sen_79: -755804052829820006
+      sen_8: 6900317907832425255
+      sen_80: -5765352081769835194
+      sen_81: 6757047576134687787
+      sen_82: -3314626431628788963
+      sen_83: -180503211315773950
+      sen_84: -4351841220810503873
+      sen_85: -3850660334783003411
+      sen_86: 1978667632971454939
+      sen_87: -8761985686588467954
+      sen_88: -6284320810092608656
+      sen_89: -5585469234588297465
+      sen_9: 7653809457417811041
+      sen_90: 6460214367754509828
+      sen_91: 1316441172652005758
+      sen_92: -349323910604741658
+      sen_93: 1889052572330584248
+      sen_94: 1666606966793442418
+      sen_95: 22275728760022883
+      sen_96: -1760003267228714248
+      sen_97: 6169691720714591338
+      sen_98: -2041304471630356155
+      sen_99: 854848733217805199
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

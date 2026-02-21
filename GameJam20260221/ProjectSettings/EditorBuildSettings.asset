@@ -5,9 +5,21 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/StartScene.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Fune/FuneScene.unity
+    guid: 3cbb502f111c24d9da98f74f9d6cec9a
+  - enabled: 1
+    path: Assets/Karakawa/Scenes/FlyLine.unity
+    guid: fe47c213b75564ae792b5843c8593496
+  - enabled: 1
+    path: Assets/nasu/RismGame.unity
+    guid: 62f924c2e3df7634b8654a2f432b14f3
+  - enabled: 1
+    path: Assets/FlappyBird/FlappyGame.unity
+    guid: a480a5813085dd14eb902baebaefeff8
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0

@@ -1,11 +1,14 @@
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class JumpGoal : MonoBehaviour
 {
     public Collider2D collider;
     [SerializeField] private GameObject clear;
     [SerializeField] private GameObject FadeIn;
+    [SerializeField] private float sceneChangeDelayAfterFade = 2.5f;
+    [SerializeField] private string nextSceneName = "RismGame";
     private Collider2D pendingGoalCollider;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -47,7 +50,7 @@ public class JumpGoal : MonoBehaviour
     private void SENNAnimation()
     {
         clear.SetActive(true);
-        Invoke("FadeInAnimation", 0.8f);
+        Invoke("FadeInAnimation", 1.8f);
     }
 
     private void FadeInAnimation()
@@ -55,6 +58,16 @@ public class JumpGoal : MonoBehaviour
         GameObject fadein = Instantiate(FadeIn, Vector3.zero, Quaternion.identity);
         //fadeinの親オブジェクトをcanvasに
         fadein.transform.SetParent(GameObject.Find("Canvas").transform, false);
+        Invoke(nameof(LoadNextScene), sceneChangeDelayAfterFade);
+    }
+
+    private void LoadNextScene()
+    {
+        if (string.IsNullOrEmpty(nextSceneName))
+        {
+            return;
+        }
+        SceneManager.LoadScene(nextSceneName);
     }
 
     private void OnTriggerExit2D(Collider2D collision)
