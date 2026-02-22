@@ -6,21 +6,9 @@ public class EnemyHealth : MonoBehaviour
     public int hp = 1; // 敵ごとの体力
     [SerializeField] private GameObject deathImage; // 死亡時に出す画像
     [SerializeField] private float displayTime = 1.5f; // 画像を表示しておく時間
-
-    float deathImageTimer = 0.5f;
+    float deathImageTimer = 0.2f;
     bool deathImageFlag = false;
-    void Update()
-    {
-        if(deathImageFlag)
-        {
-            deathImageTimer -= Time.deltaTime;
-            if(deathImageTimer<=0)
-            {
-                Destroy(gameObject);
-            }
-        }
-    }
-
+    
     // ダメージを受ける関数
     public void TakeDamage()
     {
@@ -32,9 +20,10 @@ public class EnemyHealth : MonoBehaviour
         {
             deathImageFlag = true;
             if (deathImage != null)
-            {
+            {               
                 GameObject tmp = Instantiate(deathImage);
-                Destroy(tmp, deathImageTimer);
+                Destroy(gameObject);
+                Destroy(tmp,deathImageTimer);
             }
             else
             {

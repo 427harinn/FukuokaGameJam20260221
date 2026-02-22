@@ -3,24 +3,12 @@ using System.Collections;
 
 public class PowerEnemyHealth : MonoBehaviour
 {
-    public int hp = 3; // 敵ごとの体力
+    public int hp = 10; // 敵ごとの体力
     [SerializeField] private GameObject deathImage; // 死亡時に出す画像
     [SerializeField] private float displayTime = 1.5f; // 画像を表示しておく時間
 
     bool deathImageFlag = false;
-    float deathImageTimer = 0.5f;
-
-    void Update()
-    {
-        if(deathImageFlag)
-        {
-            deathImageTimer -= Time.deltaTime;
-            if(deathImageTimer<=0)
-            {
-                Destroy(gameObject);
-            }
-        }
-    }
+    float deathImageTimer = 0.2f;
 
     // ダメージを受ける関数
     public void TakeDamage()
@@ -35,6 +23,7 @@ public class PowerEnemyHealth : MonoBehaviour
             if (deathImage != null)
             {
                 GameObject tmp = Instantiate(deathImage);
+                Destroy(gameObject);
                 Destroy(tmp, deathImageTimer);
             }
             else

@@ -127,13 +127,12 @@ public class Player : MonoBehaviour
             PowerEnemyHealth pEnemy = other.GetComponent<PowerEnemyHealth>();
             if (pEnemy != null)
             {
-               Debug.Log("nomal");
-
+                Debug.Log("power");
                 pEnemy.TakeDamage();
                 graceTimer = postHitGrace;
                 hitEnemies.Add(other);
                 PlayCutSfx();
-
+                timer = 0;
                 return;
             }
 
@@ -141,12 +140,12 @@ public class Player : MonoBehaviour
             EnemyHealth nEnemy = other.GetComponent<EnemyHealth>();
             if (nEnemy != null)
             {
-            Debug.Log("power");
-
+               Debug.Log("nomal");
                 nEnemy.TakeDamage();
                 graceTimer = postHitGrace;
                 hitEnemies.Add(other);
                 PlayCutSfx();
+                timer = 0;
                 return;
             }
         }

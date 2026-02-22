@@ -424,7 +424,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hp: 1
-  deathImage: {fileID: 0}
+  deathImage: {fileID: 2926639652129420090, guid: 815fa1ea41a44fc47830fb14566a99cf, type: 3}
   displayTime: 1.5
 --- !u!1 &150538819
 GameObject:
@@ -739,7 +739,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hp: 1
-  deathImage: {fileID: 0}
+  deathImage: {fileID: 2926639652129420090, guid: 815fa1ea41a44fc47830fb14566a99cf, type: 3}
   displayTime: 1.5
 --- !u!1 &274515025
 GameObject:
@@ -1047,9 +1047,10 @@ RectTransform:
   m_LocalScale: {x: 0, y: 0, z: 0}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 1809402796}
   - {fileID: 1536400465}
+  - {fileID: 1246108202}
   - {fileID: 1044554737}
+  - {fileID: 1809402796}
   - {fileID: 2088927284}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -1528,7 +1529,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hp: 3
-  deathImage: {fileID: 0}
+  deathImage: {fileID: 2926639652129420090, guid: 815fa1ea41a44fc47830fb14566a99cf, type: 3}
   displayTime: 1.5
 --- !u!61 &524830122
 BoxCollider2D:
@@ -1679,7 +1680,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hp: 1
-  deathImage: {fileID: 0}
+  deathImage: {fileID: 2926639652129420090, guid: 815fa1ea41a44fc47830fb14566a99cf, type: 3}
   displayTime: 1.5
 --- !u!58 &666476133
 CircleCollider2D:
@@ -1820,7 +1821,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hp: 1
-  deathImage: {fileID: 3638763696446890844, guid: 299ef5d0e284588428cc710287b2dd73, type: 3}
+  deathImage: {fileID: 2926639652129420090, guid: 815fa1ea41a44fc47830fb14566a99cf, type: 3}
   displayTime: 1.5
 --- !u!58 &674818612
 CircleCollider2D:
@@ -2048,7 +2049,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hp: 1
-  deathImage: {fileID: 0}
+  deathImage: {fileID: 2926639652129420090, guid: 815fa1ea41a44fc47830fb14566a99cf, type: 3}
   displayTime: 1.5
 --- !u!58 &946120617
 CircleCollider2D:
@@ -2450,7 +2451,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hp: 1
-  deathImage: {fileID: 0}
+  deathImage: {fileID: 2926639652129420090, guid: 815fa1ea41a44fc47830fb14566a99cf, type: 3}
   displayTime: 1.5
 --- !u!58 &1056502511
 CircleCollider2D:
@@ -2630,6 +2631,81 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &1246108201
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1246108202}
+  - component: {fileID: 1246108204}
+  - component: {fileID: 1246108203}
+  m_Layer: 5
+  m_Name: Image
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1246108202
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246108201}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 327170102}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: -36, y: -33}
+  m_SizeDelta: {x: 225, y: 168}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1246108203
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246108201}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: -2584784719908502165, guid: e5dc3f07a7530ad4e85d89eb0eb36de4, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!222 &1246108204
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246108201}
+  m_CullTransparentMesh: 1
 --- !u!1 &1448875719
 GameObject:
   m_ObjectHideFlags: 0
@@ -2765,7 +2841,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hp: 1
-  deathImage: {fileID: 0}
+  deathImage: {fileID: 2926639652129420090, guid: 815fa1ea41a44fc47830fb14566a99cf, type: 3}
   displayTime: 1.5
 --- !u!58 &1495263904
 CircleCollider2D:
@@ -3039,7 +3115,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hp: 1
-  deathImage: {fileID: 0}
+  deathImage: {fileID: 2926639652129420090, guid: 815fa1ea41a44fc47830fb14566a99cf, type: 3}
   displayTime: 1.5
 --- !u!58 &1754820271
 CircleCollider2D:
@@ -3669,7 +3745,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hp: 1
-  deathImage: {fileID: 0}
+  deathImage: {fileID: 2926639652129420090, guid: 815fa1ea41a44fc47830fb14566a99cf, type: 3}
   displayTime: 1.5
 --- !u!58 &1882426736
 CircleCollider2D:
@@ -3810,7 +3886,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hp: 1
-  deathImage: {fileID: 0}
+  deathImage: {fileID: 2926639652129420090, guid: 815fa1ea41a44fc47830fb14566a99cf, type: 3}
   displayTime: 1.5
 --- !u!58 &2074080053
 CircleCollider2D:

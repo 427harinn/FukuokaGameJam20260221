@@ -11,8 +11,10 @@ public class Line : MonoBehaviour
 
     private EdgeCollider2D edgeCollider;
     private bool hasMouseDown = false;
+    private bool hasDrawnFirstLine = false;
 
     [SerializeField] private GameObject FadeOut;
+    [SerializeField] private GameObject tutorialLoopObject;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -58,6 +60,7 @@ public class Line : MonoBehaviour
         if (isDrawing)
         {
             drawLine(positions[0], positions[1]);
+            TryDestroyTutorialLoop();
             isDrawing = false;
         }
     }
@@ -85,6 +88,20 @@ public class Line : MonoBehaviour
             local0,
             local1
         };
+    }
+
+    private void TryDestroyTutorialLoop()
+    {
+        if (hasDrawnFirstLine)
+        {
+            return;
+        }
+
+        hasDrawnFirstLine = true;
+        if (tutorialLoopObject != null)
+        {
+            Destroy(tutorialLoopObject);
+        }
     }
 
     private bool IsBottomLeftPosition(Vector2 screenPos)
