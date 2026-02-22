@@ -27,6 +27,9 @@ EditorBuildSettings:
     path: Assets/Story/sennin.unity
     guid: 9cfb94554b5434ee3839ffa065d89b9b
   - enabled: 1
+    path: Assets/Result/Result.unity
+    guid: 1e5e8463be6804bccb8e817594bd4d69
+  - enabled: 1
     path: Assets/FlappyBird/FlappyGame.unity
     guid: a480a5813085dd14eb902baebaefeff8
   - enabled: 1
