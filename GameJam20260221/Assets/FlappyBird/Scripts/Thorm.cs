@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class Thorm : MonoBehaviour
 {
-    [SerializeField] private GameObject player;
+    private GameObject player;
     [SerializeField] private float destroyMarginX = 1.0f;
     private ThormGenerator generator;
     private Camera mainCamera;

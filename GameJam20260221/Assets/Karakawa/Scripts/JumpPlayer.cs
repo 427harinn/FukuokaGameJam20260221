@@ -12,6 +12,8 @@ public class JumpPlayer : MonoBehaviour
     [SerializeField] private float jumpSpeed = 2.0f;
     [SerializeField] private float initialDamagedTime = 3f;
     [SerializeField] private int lineLayer = 6;
+    [SerializeField] private float minX = -2.8f;
+    [SerializeField] private float maxX = 2.8f;
     private int playerLayer;
 
     private float damagedTime = 0f;
@@ -57,6 +59,8 @@ public class JumpPlayer : MonoBehaviour
                 playerimage.color = new Color(1f, 1f, 1f, 1f);
             }
         }
+
+        ConstrainHorizontalPosition();
     }
     
     private void OnCollisionEnter2D(Collision2D collision)
@@ -105,5 +109,18 @@ public class JumpPlayer : MonoBehaviour
         if (lineLayer < 0 || lineLayer > 31) { return; }
         Debug.Log(enabled ? "有効化" : "無効化");
         Physics2D.IgnoreLayerCollision(playerLayer, lineLayer, !enabled);
+    }
+
+    private void ConstrainHorizontalPosition()
+    {
+        float clampedX = Mathf.Clamp(transform.position.x, minX, maxX);
+        if (!Mathf.Approximately(transform.position.x, clampedX))
+        {
+            transform.position = new Vector3(clampedX, transform.position.y, transform.position.z);
+
+            Vector2 velocity = rb.linearVelocity;
+            velocity.x = 0f;
+            rb.linearVelocity = velocity;
+        }
     }
 }

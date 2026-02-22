@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class GoalProcessor : MonoBehaviour
 {
@@ -7,6 +8,8 @@ public class GoalProcessor : MonoBehaviour
     [SerializeField] private GameObject clearPanel;
     [SerializeField] private GameObject fadeInPrefab;
     [SerializeField] private float fadeInDelay = 0.5f;
+    [SerializeField] private float sceneChangeDelayAfterFade = 2.5f;
+    [SerializeField] private string nextSceneName = "izumi";
     private bool hasLoggedClear = false;
 
 
@@ -50,6 +53,16 @@ public class GoalProcessor : MonoBehaviour
         {
             fadeInInstance.transform.SetParent(canvas.transform, false);
         }
+        Invoke(nameof(LoadNextScene), sceneChangeDelayAfterFade);
+    }
+
+    private void LoadNextScene()
+    {
+        if (string.IsNullOrEmpty(nextSceneName))
+        {
+            return;
+        }
+        SceneManager.LoadScene(nextSceneName);
     }
 
     private int CalculateFlappyScore(int collisions, int totalCount)

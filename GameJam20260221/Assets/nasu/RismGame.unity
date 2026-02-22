@@ -3395,7 +3395,7 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 3, y: 0}
+  m_Offset: {x: 3.0037704, y: 0}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -3405,7 +3405,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 1.1, y: 9.27}
+  m_Size: {x: 1.8318307, y: 9.27}
   m_EdgeRadius: 0
 --- !u!114 &1814988434
 MonoBehaviour:
@@ -3435,6 +3435,8 @@ MonoBehaviour:
   FadeOut: {fileID: 2088927283}
   clear: {fileID: 1809402797}
   FadeIn: {fileID: 3025128504530168591, guid: 1e46420c5943d4545ab08180fbfef068, type: 3}
+  sceneChangeDelayAfterFade: 2.5
+  nextSceneName: sennin
 --- !u!82 &1814988435
 AudioSource:
   m_ObjectHideFlags: 0

@@ -15,12 +15,15 @@ public class PlayerFlappy : MonoBehaviour
     [SerializeField] GameObject mainCamera;
     [SerializeField] private AudioClip jumpSe;
     [SerializeField] private AudioClip missSe;
+    [SerializeField] private Sprite clickSprite;
+    [SerializeField] private float clickSpriteDuration = 0.12f;
     public bool isDamage;
     public bool isGoal;
 
     private float startTime = 0.0f;
     private float elapsedTime = 0.0f;
     private UnityEngine.UI.Image playerImage;
+    private Sprite defaultSprite;
     private AudioSource audioSource;
     private MoveCamera moveCameraScript;
     private bool jumpRequested = false;
@@ -37,6 +40,10 @@ public class PlayerFlappy : MonoBehaviour
     void Start()
     {
         playerImage = GetComponent<UnityEngine.UI.Image>();
+        if (playerImage != null)
+        {
+            defaultSprite = playerImage.sprite;
+        }
         audioSource = GetComponent<AudioSource>();
         if (mainCamera != null)
         {
@@ -57,6 +64,7 @@ public class PlayerFlappy : MonoBehaviour
         if (Input.GetMouseButtonDown(0))
         {
             jumpRequested = true;
+            ShowClickSprite();
         }
 
         OnDamageTimeCount();
@@ -196,5 +204,26 @@ public class PlayerFlappy : MonoBehaviour
             return;
         }
         audioSource.PlayOneShot(clip);
+    }
+
+    private void ShowClickSprite()
+    {
+        if (playerImage == null || clickSprite == null)
+        {
+            return;
+        }
+
+        playerImage.sprite = clickSprite;
+        CancelInvoke(nameof(ResetClickSprite));
+        Invoke(nameof(ResetClickSprite), clickSpriteDuration);
+    }
+
+    private void ResetClickSprite()
+    {
+        if (playerImage == null || defaultSprite == null)
+        {
+            return;
+        }
+        playerImage.sprite = defaultSprite;
     }
 }

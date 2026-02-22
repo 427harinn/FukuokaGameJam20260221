@@ -243,6 +243,8 @@ MonoBehaviour:
   jumpSpeed: 7
   initialDamagedTime: 1.3
   lineLayer: 5
+  minX: -6.5
+  maxX: 6.5
   jumpSE: {fileID: 8300000, guid: 53f6e245b33014457a5871e7f322f0b8, type: 3}
   damageSE: {fileID: 8300000, guid: dd7a49f7e7caa427d93eb26c136af02b, type: 3}
 --- !u!61 &14333166
@@ -321,6 +323,8 @@ MonoBehaviour:
   collider: {fileID: 0}
   clear: {fileID: 8768857633525896085}
   FadeIn: {fileID: 3025128504530168591, guid: 1e46420c5943d4545ab08180fbfef068, type: 3}
+  sceneChangeDelayAfterFade: 2.5
+  nextSceneName: RismGame
 --- !u!82 &14333169
 AudioSource:
   m_ObjectHideFlags: 0
@@ -2641,7 +2645,7 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 4.3637543, y: 2.2268066}
+  m_Offset: {x: 12.37404, y: 2.2268066}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -2651,7 +2655,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 100.70337, y: 660.14355}
+  m_Size: {x: 84.6828, y: 660.14355}
   m_EdgeRadius: 0
 --- !u!114 &1155295940
 MonoBehaviour:
@@ -2801,7 +2805,7 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 27.10772, y: 2.2268066}
+  m_Offset: {x: -8.884493, y: 2.2268066}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -2811,7 +2815,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 55.21544, y: 660.14355}
+  m_Size: {x: 63.21375, y: 660.14355}
   m_EdgeRadius: 0
 --- !u!1 &1233133612
 GameObject:

@@ -10,6 +10,7 @@ public class Line : MonoBehaviour
     private Camera mainCamera;
 
     private EdgeCollider2D edgeCollider;
+    private bool hasMouseDown = false;
 
     [SerializeField] private GameObject FadeOut;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -32,12 +33,25 @@ public class Line : MonoBehaviour
         {
             //Debug.Log("マウスを押しました");
             positions[0] = Input.mousePosition;
+            hasMouseDown = true;
         }
 
         if (Input.GetMouseButtonUp(0))
         {
+            if (!hasMouseDown)
+            {
+                return;
+            }
             //Debug.Log("マウスを離しました");
             positions[1] = Input.mousePosition;
+            hasMouseDown = false;
+
+            if (IsBottomLeftPosition(positions[0]) || IsBottomLeftPosition(positions[1]))
+            {
+                isDrawing = false;
+                return;
+            }
+
             isDrawing = true;
         }
 
@@ -71,5 +85,10 @@ public class Line : MonoBehaviour
             local0,
             local1
         };
+    }
+
+    private bool IsBottomLeftPosition(Vector2 screenPos)
+    {
+        return screenPos.x <= 1f && screenPos.y <= 1f;
     }
 }

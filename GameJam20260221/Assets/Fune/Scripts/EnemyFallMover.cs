@@ -4,6 +4,8 @@ public class EnemyFallMover : MonoBehaviour
 {
     [SerializeField] private float fallSpeed = 420.0f;
     [SerializeField] private float destroyY = -700.0f;
+    [SerializeField] private float enemyHitboxShrinkX = 6.0f;
+    [SerializeField] private float enemyHitboxShrinkY = 6.0f;
 
     private RectTransform rectTransform;
     private RectTransform playerRect;
@@ -74,10 +76,15 @@ public class EnemyFallMover : MonoBehaviour
         a.GetWorldCorners(enemyCorners);
         b.GetWorldCorners(playerCorners);
 
-        float aMinX = enemyCorners[0].x;
-        float aMaxX = enemyCorners[2].x;
-        float aMinY = enemyCorners[0].y;
-        float aMaxY = enemyCorners[2].y;
+        float enemyWidth = enemyCorners[2].x - enemyCorners[0].x;
+        float enemyHeight = enemyCorners[2].y - enemyCorners[0].y;
+        float safeShrinkX = Mathf.Clamp(enemyHitboxShrinkX, 0f, Mathf.Max(0f, enemyWidth * 0.49f));
+        float safeShrinkY = Mathf.Clamp(enemyHitboxShrinkY, 0f, Mathf.Max(0f, enemyHeight * 0.49f));
+
+        float aMinX = enemyCorners[0].x + safeShrinkX;
+        float aMaxX = enemyCorners[2].x - safeShrinkX;
+        float aMinY = enemyCorners[0].y + safeShrinkY;
+        float aMaxY = enemyCorners[2].y - safeShrinkY;
 
         float bMinX = playerCorners[0].x;
         float bMaxX = playerCorners[2].x;

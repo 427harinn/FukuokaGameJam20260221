@@ -974,6 +974,8 @@ MonoBehaviour:
   clearPanel: {fileID: 1193693592}
   fadeInPrefab: {fileID: 3025128504530168591, guid: 1e46420c5943d4545ab08180fbfef068, type: 3}
   fadeInDelay: 0.5
+  sceneChangeDelayAfterFade: 2.5
+  nextSceneName: izumi
 --- !u!4 &430206056
 Transform:
   m_ObjectHideFlags: 0
@@ -2805,6 +2807,8 @@ MonoBehaviour:
   mainCamera: {fileID: 519420028}
   jumpSe: {fileID: 8300000, guid: f9f09928eea3a42c3848057f00bddb58, type: 3}
   missSe: {fileID: 8300000, guid: 14cd18c83b82f424eb04c019ce74412d, type: 3}
+  clickSprite: {fileID: 2109534842004528989, guid: cf0b20b03182d4d228f2b87023c4be72, type: 3}
+  clickSpriteDuration: 0.12
   isDamage: 0
   isGoal: 0
   fadeOut: {fileID: 75183263}
