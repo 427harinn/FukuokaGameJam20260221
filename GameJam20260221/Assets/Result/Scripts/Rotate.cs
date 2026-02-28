@@ -59,7 +59,7 @@ public class Rotate : MonoBehaviour
                 AudioSource.PlayClipAtPoint(soundClip, transform.position);
             }
             isRotate = true;
-            Debug.Log("ˆê’è’n“_‚æ‚è‰º‚És‚Á‚½F" + transform.position.y);
+            Debug.Log("ï¿½ï¿½ï¿½nï¿½_ï¿½ï¿½è‰ºï¿½Ésï¿½ï¿½ï¿½ï¿½ï¿½F" + transform.position.y);
         }
     }
 }

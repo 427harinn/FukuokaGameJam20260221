@@ -1,5 +1,6 @@
 using UnityEngine;
 using UnityEngine.UI;
+using unityroom.Api;
 
 public class ScoreCalculator : MonoBehaviour
 {
@@ -14,6 +15,7 @@ public class ScoreCalculator : MonoBehaviour
                     GManager.instance.killScore;
 
         scoreText.text = sumScore.ToString();
+        UnityroomApiClient.Instance.SendScore(1, sumScore, ScoreboardWriteMode.HighScoreAsc);
     }
 
     // Update is called once per frame
